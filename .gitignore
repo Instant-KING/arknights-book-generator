@@ -1,0 +1,9 @@
+__pycache__/
+.idea/
+build/
+dist/
+*.exe
+*.spec
+.claude/
+_cover_assets/pdf_images/
+*.pyc
